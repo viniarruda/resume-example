@@ -14,7 +14,7 @@ Faculdade: Curso
 
 ## Certificações
 
-Certificação Node :smile
+Certificação Node :smile:
 
 ## Experiência
 
